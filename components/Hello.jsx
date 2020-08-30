@@ -4,7 +4,10 @@
 var React = require('react');
 class Hello extends React.Component {
     render() {
-        return (<div>Hello World</div>)
+        return (<div><h1>Hello World</h1>
+            <p>I am the greatest Wizard!</p>
+        </div>
+                )
     }
 }
 
