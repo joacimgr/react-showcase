@@ -1,11 +1,11 @@
 {
-  "name": "React-Template",
+  "name": "react-website",
   "version": "0.0.1",
-  "description": "React Template Wizard",
+  "description": "React Template",
   "main": "index.js",
   "scripts": {
     "start": "npm run serve | npm run dev",
-    "serve": "node_modules/.bin/http-server -p 9000 &",
+    "serve": "node_modules/.bin/http-server -p 9000",
     "dev": "webpack-dev-server --progress --colors --port 8081"
   },
   "repository": {
