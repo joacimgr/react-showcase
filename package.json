@@ -26,7 +26,6 @@
   },
   "devDependencies": {
     "http-server": "^0.8.5",
-    "ip": "^1.1.5",
     "jsx-loader": "^0.13.2",
     "redux": "^3.0.2",
     "redux-devtools": "^2.1.5",
