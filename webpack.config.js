@@ -4,7 +4,7 @@ module.exports = {
         filename: 'bundle.js', //this is the default name, so you can skip it
         //at this directory our bundle file will be available
         //make sure port 9000 is used when launching webpack-dev-server
-        publicPath: 'http://94.46.44.191:9000/assets'
+        publicPath: 'http://0:0:0:0:9000/assets'
     },
     module: {
         loaders: [
